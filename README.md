@@ -17,5 +17,5 @@ WindowOpacity = 0.3 # 透明度
 ```
 
 
-
+* 用pyinstaller打包成exe
 <img src="https://raw.githubusercontent.com/dayerong/myfund/main/snapshot.png">
