@@ -1,0 +1,10 @@
+stocks:
+  # 一行一个基金代码
+  - "161725"
+  - "007040"
+  - "008887"
+configuration:
+  # 数据刷新时间
+  flush_time: 3
+  # 窗口透明度
+  WindowOpacity: 0.2
